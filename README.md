@@ -79,3 +79,19 @@ faiss-gpu=1.7.1
 ```
 
 > **Note:** We recommend running these experiments on A800 GPUs.
+
+## 📎 Cite this Work
+
+If you find this project helpful for your research, please cite our paper:
+
+```
+@misc{zhu2025differentiablefasttopkselection,
+      title={Differentiable Fast Top-K Selection for Large-Scale Recommendation}, 
+      author={Yanjie Zhu and Zhen Zhang and Yunli Wang and Zhiqiang Wang and Yu Li and Rufan Zhou and Shiyang Wen and Peng Jiang and Chenhao Lin and Jian Yang},
+      year={2025},
+      eprint={2510.11472},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.11472}, 
+}
+```
