@@ -14,7 +14,7 @@ Cascade ranking is a widely adopted paradigm in large-scale information retrieva
 
 ### 📁 Data Preparation
 
-To run the experiments, please download the dataset from [this link](https://rec.ustc.edu.cn/share/883adf20-7e44-11ef-90e2-9beaf2bdc778). After downloading, organize the data under the `./data/` directory according to the expected structure.
+To run the experiments, please download the dataset from [this link](https://huggingface.co/datasets/qi6776/Recflow/tree/main/recflow). After downloading, organize the data under the `./data/` directory according to the expected structure.
 
 ---
 
